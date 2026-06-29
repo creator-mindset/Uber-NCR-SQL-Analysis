@@ -137,6 +137,11 @@ The dataset contains ride booking information including:
 
 ---
 
+## 📷 Dashboard Preview
+
+
+---
+
 ## 📚 Learning Outcomes
 
 Through this project, I strengthened my understanding of:
