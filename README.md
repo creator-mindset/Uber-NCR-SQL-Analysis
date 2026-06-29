@@ -1,4 +1,4 @@
-# 🚖 Uber NCR Ride Booking SQL Analysis
+# 🚖 Uber NCR Ride Booking SQL Analysis and Visualizations
 ![Image Description](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQzJegEVHXv-MIVuNoQLXPz-zpcYRyhfaM7TwZFGe7ZA&s)
 ## 📌 Project Overview
 
